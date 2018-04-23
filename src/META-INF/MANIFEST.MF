@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/jdom.jar lib/jpcap.jar
+Main-Class: test.sock_main
+

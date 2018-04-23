@@ -1,0 +1,18 @@
+{
+  "brokerList":"192.168.1.4:9092",
+  "zkRoot":"/test",
+  "topic":"test",
+  "zkPort":2181,
+  
+  "hbaseTable":"yss",
+  "zks": "192.168.1.4:2181",
+
+
+  "zkServers": ["192.168.1.4"],
+  "id":"yss-consumer-test",
+
+
+  "dst_ports":[]
+
+
+}
